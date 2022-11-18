@@ -16,7 +16,7 @@ const ContactList = () => {
   const [showModal, setShowModal] = useState(false);
   const [filterText, setFilterText] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
-  const [contactPerPage, setContactPerPage] = useState(6);
+  const [contactPerPage] = useState(6);
 
   /* ============ MODAL AND ALERT FUNCTIONS =========== */
   const handleClose = () => setShowModal(false);

@@ -18,4 +18,3 @@ export const getContactsService = async () => {
         return error.response;
     }
 }
-

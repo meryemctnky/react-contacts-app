@@ -11,7 +11,6 @@ Contacts App a web application that helps you view, edit and save all your conta
 ## Tools
 - ContextAPI
 - Axios
-- mockAPI
 
 ## Screenshots
 
